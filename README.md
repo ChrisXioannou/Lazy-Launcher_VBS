@@ -133,8 +133,9 @@ Done. Click the icon to launch your entire workflow.
 
 Real configurations from my own setup:
 
-- [`examples/HackTheBox.vbs`](./examples/HackTheBox.vbs) — opens HTB Academy, starts a Jupyter Lab in a conda env, connects an OpenVPN config (elevated)
-- [`examples/DefendAgent.vbs`](./examples/DefendAgent.vbs) — opens Hostinger panel, n8n, localhost dev server, Supabase dashboard, then launches VS Code
+- [`examples/Coding.vbs`](./examples/Coding.vbs) — opens VS Code, Claude, and a lofi coding playlist on YouTube
+- [`examples/FullStack.vbs`](./examples/FullStack.vbs) — opens Vercel + Supabase + Hostinger dashboards, runs `npm run dev` in your project folder, opens localhost, launches VS Code
+- [`examples/Entertainment.vbs`](./examples/Entertainment.vbs) — opens YouTube, Instagram, and Reddit when it's time to switch off
 
 ---
 
