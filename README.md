@@ -164,3 +164,4 @@ Real configurations from my own setup:
 ## License
 
 MIT — copy, fork, do what you want.
+
